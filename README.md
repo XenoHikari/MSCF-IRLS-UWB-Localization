@@ -12,14 +12,13 @@ The purpose of this repository is to improve the reproducibility and transparenc
 
 ## Description
 
-The proposed MSCF-IRLS method is designed for robust UWB TDoA localization under measurement noise and non-line-of-sight errors.
+The proposed MSCF-IRLS method is designed for robust UWB TDoA localization with high accuracy and efficiency.
 
 This repository includes MATLAB scripts for:
 
 - Running the proposed MSCF-IRLS algorithm
-- Comparing the proposed method with baseline algorithms
 - Reproducing the main simulation results
-- Generating figures and tables used in the paper
+- Generating the essential data
 
 ---
 
