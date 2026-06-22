@@ -1,6 +1,6 @@
 # MSCF-IRLS-UWB-Localization
 
-This repository provides the MATLAB simulation code for the proposed MSCF-IRLS method in UWB TDoA-based localization.
+This repository provides the MATLAB simulation code for the proposed MSCF-IRLS method in UWB 3-D TDoA localization.
 
 The code is associated with the paper:
 
